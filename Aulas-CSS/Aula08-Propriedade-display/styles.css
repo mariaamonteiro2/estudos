@@ -1,0 +1,31 @@
+#block{
+    background-color: #e934344c;
+    /* ocupa a tela inteira horizontalmente  */
+}
+
+#inline{
+    background-color: #5be9344c;
+     /* ocupa a tela inteira verticalmente, só até o necessario */
+}
+
+#inlineBlock{
+    background-color: #3434e94c;
+    /* ocupa a tela inteira verticalmente e horizontalmente, não obdece widith ou hight */
+}
+
+
+p{
+    background-color: red;
+    width: 100px;
+}
+
+span{
+    background-color: green;
+}
+
+#itemInlineBlock{
+    background-color: #9066cb;
+    display: inline-block;
+}
+
+

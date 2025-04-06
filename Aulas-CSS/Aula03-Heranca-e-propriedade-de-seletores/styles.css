@@ -1,0 +1,45 @@
+.textoAzul {
+    color: blue;
+}
+.textoBold{
+    font-weight: bold;
+}
+#textoRosa{
+    color: pink;
+}
+
+h3{
+    color: red;
+}
+
+p{
+    color: orange;
+}
+
+/* herança */
+
+/* PROPRIEDADADES HERDÁVEIS POR PADRÃO */
+
+
+/* Algumas propriedades CSS são herdáveis por padrão, o que:
+- `color`
+- `font-size`
+- `font-family`
+- `font-style`
+- `font-weight`
+- `line-height`
+- `text-align``
+- `visibility` */
+
+/* PROPRIEDADES não herdáveis por padrão */
+
+/* outras propriedades não saõ herdáveis por padrão, o que são: 
+
+- `background`
+- `border`
+- `margin`
+- `padding`
+- `height` 
+- `width`
+- `display`
+*/

@@ -1,0 +1,14 @@
+p{
+    font-family: "Rubik", monospace;
+    font-weight: 100;   /* varia de 100 a 900 */
+    font-style: italic;
+    /* serif, sans-serife, cursive, fantasy, monospace */
+}
+
+#exemplo{
+    /* uppercase tudo mauisculo, lowercase tudo minusculo */
+    text-transform: capitalize;
+     /*text-align modifica a posição do texto  */
+    text-align: center; 
+    
+}
